@@ -35,7 +35,7 @@ html, body {
   /* padding: 0 3%; */
 }
 .header .logo {
-  width: 15%;
+  width: 275px;
   margin-left: 4%;
 }
 
@@ -132,7 +132,7 @@ html, body {
 .chartDataSelector select {
   width: 20%;
   height: 70%;
-  font-size: 1.5vw;
+  font-size: 1.5rem;
   margin-left: 5%;
   border: rgba(128, 128, 128, 0.478) 1px solid;
   border-radius: 5px;
